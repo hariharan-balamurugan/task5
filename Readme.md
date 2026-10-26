@@ -214,6 +214,3 @@ The API handles common errors:
 - Add logging and monitoring.
 - Deploy the service to a cloud platform.
 
-## 12. Author
-
-Developed as a learning project to practise FastAPI, external API integration, asynchronous programming, and Docker.
